@@ -1,10 +1,15 @@
 DATOS INFORMATIVOS DE LA SECUENCIA DIDÁCTICA-TEMA MATEMÁTICO SELECCIONADO.
 
 Área: Matemática
+
 Tema: Teorema de Pitágoras
+
 Nivel educativo: Décimo Año de Educación General Básica
+
 Metodología: Aprendizaje Basado en Juegos (Game-Based Learning)
+
 Recurso principal: Simulación del concurso "¿Quién quiere ser millonario?"
+
 
 El propósito didáctico de este recurso interactivo es fortalecer la comprensión y aplicación del Teorema de Pitágoras mediante el aprendizaje basado en la 
 gamificación. A través del simulador los estudiantes tienen la oportunidad de repasar conceptos, resolver problemas y poner en práctica sus conocimientos 
