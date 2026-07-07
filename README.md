@@ -1,4 +1,5 @@
 DATOS INFORMATIVOS DE LA SECUENCIA DIDÁCTICA-TEMA MATEMÁTICO SELECCIONADO.
+
 Área: Matemática
 Tema: Teorema de Pitágoras
 Nivel educativo: Décimo Año de Educación General Básica
