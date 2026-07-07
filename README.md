@@ -19,6 +19,9 @@ Al estudiar el Teorema de Pitágoras, los estudiantes suelen presentar dificulta
 También es frecuente que tengan problemas al sustituir los valores en la fórmula, especialmente cuando deben despejar una incógnita o realizar operaciones con 
 raíces cuadradas.
 
+Se encuentra disponible el simulador interactivo del Teorema de Pitágoras en formato .html. Para acceder a él, es necesario descargar el archivo y abrirlo 
+desde un navegador web de su preferencia (como Google Chrome, Microsoft Edge o Mozilla Firefox).
+
 INSTRUCCIONES DEL JUEGO:
 - Responde secuencialmente 10 preguntas sobre el Teorema de Pitágoras.
 - Cada pregunta otorga un nivel en la escalera de premios hasta llegar al gran bote de $32.000.
